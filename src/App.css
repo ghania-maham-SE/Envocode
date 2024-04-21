@@ -1,0 +1,301 @@
+* {
+  font-family: "Poppins", sans-serif;
+}
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap");
+
+/* navbar */
+#contact-us {
+  background-color: #2264de;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.navbar-list {
+  margin-left: 30%;
+}
+
+/* hero section  */
+.landing-page-container {
+  position: relative;
+}
+
+.main-heading {
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+
+  text-align: center;
+  z-index: 2;
+}
+.services{
+  font-weight: 600;
+}
+
+.page-title {
+  font-size: 1.25rem;
+}
+.text-1 {
+  font-size: 28px;
+  font-weight: 950;
+  line-height: 1.13;
+  text-transform: capitalize;
+}
+.color-primary-lg {
+  color: #2569e6;
+}
+.caption {
+  font-size: 1.5rem;
+  line-height: 1.33;
+}
+#button {
+  border-radius: 5px;
+  font-weight: bolder;
+  padding: 15px;
+}
+
+.link-arrow:hover {
+  transform: translateX(50%);
+  transition: 0.4s ease-in-out;
+  display: inline-block;
+}
+.text-2 {
+  font-size: 2.5rem;
+
+  font-weight: 900;
+}
+.tab-text {
+  font-size: 20px;
+
+  font-weight: 800;
+
+  color: black;
+}
+.link-btn:hover {
+  color: white;
+}
+
+.card-icons {
+  color: #0755e8;
+  font-size: 25px;
+}
+.title {
+  font-size: 16px;
+}
+
+.card1 {
+  transition: 0.3s;
+}
+.card1:hover {
+  transform: translate(0, -10px);
+  color: #0755e8;
+  border-color: #0755e8;
+}
+.card-hover {
+  background-color: #f2f2f2;
+}
+.card-hover:hover {
+  background-color: #0755e8;
+  color: white;
+}
+.link-button:hover {
+  color: white;
+}
+
+.App {
+  text-align: center;
+  margin: auto;
+}
+
+.container00 {
+  text-align: center;
+  margin: auto;
+  /* justify-content: space-evenly; */
+  max-width: 30rem;
+}
+
+.geeks {
+  color: #0755e8;
+}
+
+.text {
+  display: inline;
+  width: 90%;
+}
+
+.read-or-hide {
+  color: rgb(192, 192, 192);
+  cursor: pointer;
+}
+
+/* services we offer */
+.icon-font {
+  font-size: 40px;
+  color: #0755e8;
+}
+.style {
+  list-style-type: none;
+  font-size: 16px;
+}
+#button {
+  border-radius: 5px;
+  font-weight: bolder;
+  padding: 15px;
+}
+.text-bold {
+  font-weight: bolder;
+}
+
+/* careers */
+.search-form {
+  border: none;
+}
+.careers-container {
+  text-align: center;
+  padding: 20px;
+  color: white;
+  font-weight: 900;
+}
+.career-text {
+  font-size: 18px;
+  font-weight: 900;
+}
+.card2-hover:hover {
+  background-color: #0755e8;
+  color: white;
+}
+.footer-text{
+  list-style-type: none;
+}
+
+
+/* Amir's section  */
+*{
+  margin: 0% 0%;
+}
+.section-hero{
+  background-color:blue ;
+  width: 100%;
+  height: 90vh;
+  padding-top: 8%;
+  
+  
+}
+.mb-1{
+  color: white;
+  text-align: center;
+  
+}
+.mb-2{
+  color: white;
+  text-align: center;
+  
+}
+.mb-3{
+  display: inline-block;
+    font-size: 40px;
+
+}
+.mb-4{
+  display: inline-block;
+  color: blue;
+  padding-left: 2px;
+    font-size: 40px;
+}
+.mf-12{
+  color: blue;
+    font-size: 40px;
+}
+.btn1{
+ 
+  height: 60px;
+  width: 150px;
+  margin-left: 40%;
+  margin-top: 10px;
+}
+.secondsection{
+  background-color: #f8f8f8;
+  width: 100%;
+
+}
+.btn2{
+ 
+  height: 60px;
+  width: 150px;
+ 
+  margin-top: 10px;
+}
+.section3{
+  margin-top: 5%;
+}
+.heading{
+  font-size: 1.5rem;
+  line-height: 1.35;
+  font-weight: bolder;
+ 
+  
+}
+.cardwidth{
+  height: 100px;
+}
+
+.colored{
+  background-color: black;
+  height: 90vh;
+  color: #f8f8f8;
+  border-radius: 15px;
+}
+.image-fluid{
+  height: 500px;
+}
+.textimg{
+  background-color:#f8f8f8;
+  margin-top: 60px;
+  height: 350px;
+}
+.sectioncounting{
+  height: 300px;
+  text-align: center;
+  color: #f8f8f8;
+}
+.explore{
+ background-color: #04338c;
+ color: white;
+  text-align:center;
+  height: 80px;
+}
+.explore a{
+  color: #f8f8f8;
+}
+.offshare{
+  background-color: black;
+  color: #f8f8f8;
+}
+.blue{
+  font-size: larger;
+  font-weight: bold;
+}
+.textual{
+  padding: 10%;
+}
+.sectionheading{
+  text-align: center;
+}
+.bolds{
+  font-size: 68px;
+  font-weight: 600;
+}
+.mbt{
+  display: inline-block;
+  color: blue;
+  padding-left: 2px;
+    font-size: 68px;
+     font-weight: 600;
+}
+.sectiontwod{
+  text-align: center;
+  color: #f8f8f8;
+}
